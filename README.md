@@ -1,4 +1,4 @@
 py
 ==
 
-A personal repository.
+This repository is myself.
